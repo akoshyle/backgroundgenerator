@@ -1,5 +1,0 @@
-Input Type Color:
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/color
-
-CSS Gradient:
-https://www.w3schools.com/css/css3_gradients.asp
